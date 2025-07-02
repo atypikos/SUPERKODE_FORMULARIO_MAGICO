@@ -16,10 +16,11 @@
 body {
     background: var(--gradient-color);
     font-family: "poppins";
-      display: flex;
+    display: flex;
    justify-content: center;
    align-items: center;
    flex-direction: column;
+   min-height: 100vh;
 }
 
 #icon {
